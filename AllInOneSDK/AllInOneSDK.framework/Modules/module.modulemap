@@ -1,0 +1,6 @@
+framework module AllInOneSDK {
+  umbrella header "AllInOneSDK.h"
+
+  export *
+  module * { export * }
+}
